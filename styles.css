@@ -25,20 +25,12 @@ header h1 {
 nav {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
     gap: 20px;
 }
 
 nav a {
-    color: white;
     text-decoration: none;
-    font-weight: bold;
 }
-
-nav a:hover {
-    text-decoration: underline;
-}
-
 
 main {
     width: 90%;
@@ -124,9 +116,5 @@ footer {
 
     main {
         width: 94%;
-    }
-
-    section {
-        padding: 18px;
     }
 }
