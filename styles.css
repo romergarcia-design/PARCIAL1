@@ -10,7 +10,6 @@ body {
     line-height: 1.6;
 }
 
-/* Encabezado */
 header {
     background-color: #0797c8;
     color: white;
@@ -58,7 +57,7 @@ h2 {
     color: #0786b3;
 }
 
-/* Formulario */
+
 form {
     display: flex;
     flex-direction: column;
